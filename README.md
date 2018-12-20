@@ -1,2 +1,2 @@
 # Hello-world
-this is my first test rep
+i am changing this thing for the first time to undestand how it works
